@@ -5,7 +5,7 @@ This is an early stage work, and I'm currently just cheking wheather or not this
 ### TODO
 
 * [x] Create scripts to filter dataset 
-* [ ] EDA
+* [x] EDA
 * [ ] tfid
 * [ ] Mean Glove vectors
 * [ ] LDA
