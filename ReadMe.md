@@ -6,7 +6,7 @@ This is an early stage work, and I'm currently just cheking wheather or not this
 
 * [x] Create scripts to filter dataset 
 * [x] EDA
-* [ ] tfid
-* [ ] Mean Glove vectors
-* [ ] LDA
+* [*] tfid
+* [*] Mean Glove vectors
+* [*] LDA
 * [x] Doc2Vec
